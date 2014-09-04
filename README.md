@@ -1,6 +1,6 @@
 # College Tuition and Minimum Wage Analysis
 
-This repository contains data, sourcing notes, and analysis for the September 4, 2014 BuzzFeed article, "[How Much College Did Your Summer Job Pay For?](http://www.buzzfeed.com/gregschoofs/how-much-college-did-your-summer-job-pay-for)" by Greg Schoofs.
+This repository contains data, sourcing notes, and analysis for the September 4, 2014 BuzzFeed article, "[These Charts Show How Much College A Minimum Wage Job Paid For, Then And Now](http://www.buzzfeed.com/gregschoofs/how-much-college-did-your-summer-job-pay-for)" by Greg Schoofs.
 
 ## Data and Sources
 
